@@ -1,2 +1,2 @@
 # Singleton
-Cours sur les Design Patterns, lors de la formation Java de l'IFA
+Exercice sur le Singleton, lors de la formation Java de l'IFA
